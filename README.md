@@ -14,21 +14,21 @@
 #### ⚙️ Frameworks & Libraries
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,flask,nodejs,materialui&perline=5" alt="Frameworks & Libraries"/>
+    <img src="https://skillicons.dev/icons?i=react,express,flask,nodejs,materialui&perline=5&theme=light" alt="Frameworks & Libraries"/>
   </a>
 </p>
 
 #### 🗃️ Databases
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,sqlite&perline=2" alt="Databases"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,sqlite&perline=2&theme=light" alt="Databases"/>
   </a>
 </p>
 
 #### 🔧 Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,vim,git,github,gitlab,docker,ps&perline=8" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,vim,git,github,gitlab,docker,ps&perline=8&theme=light" alt="Tools"/>
   </a>
 </p>
 
@@ -36,6 +36,6 @@
 ### 🌱 Currently Learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,pytorch,sklearn,kotlin,swift,mysql,kubernetes&perline=7" alt="Currently Learning"/>
+    <img src="https://skillicons.dev/icons?i=go,pytorch,sklearn,kotlin,swift,mysql,kubernetes&perline=7&theme=light" alt="Currently Learning"/>
   </a>
 </p>
