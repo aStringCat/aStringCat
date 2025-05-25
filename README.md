@@ -7,7 +7,7 @@
 #### 💻 Programming Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,matlab&perline=8" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,matlab&perline=8&theme=light" alt="Programming Languages"/>
   </a>
 </p>
 
