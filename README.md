@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aStringCat&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&locale=zh-CN&title_color=79FF97&text_color=97FFEB&icon_color=79FF97&bg_color=1A1B27" alt="aStringCat's Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aStringCat&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&title_color=79FF97&text_color=97FFEB&icon_color=79FF97&bg_color=1A1B27" alt="aStringCat's Top Languages"/>
   </a>
 </p>
 
