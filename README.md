@@ -7,7 +7,7 @@
 #### 💻 Programming Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,matlab&perline=8&theme=light" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin,js,html,css,matlab&perline=8&theme=light" alt="Programming Languages"/>
   </a>
 </p>
 
@@ -36,6 +36,6 @@
 ### 🌱 Currently Learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,pytorch,sklearn,kotlin,swift,mysql,kubernetes&perline=7&theme=light" alt="Currently Learning"/>
+    <img src="https://skillicons.dev/icons?i=go,pytorch,sklearn,swift,mysql,kubernetes&perline=7&theme=light" alt="Currently Learning"/>
   </a>
 </p>
